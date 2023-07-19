@@ -2,3 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+.first-color {
+    background-color: #f2f9f1;
+}
+
+.second-color {
+    background-color: #ddeedf;
+}
+
+.third-color {
+    background-color: #b6cdbd;
+}
+
+.fourth-color {
+    background-color: #5c715e;
+}
