@@ -49,6 +49,7 @@ export default function Home() {
 
                     <div className="_textarea_middle_line w-[100%] h-[80%] flex gap-x-1.5">
                         <div className="_left_textarea_write w-[50%]">
+                            <textarea className="overflow-hidden w-[100%] h-[100%] p-4 rounded-2xl outline-none resize-none" placeholder="Write the words"/>
 н                        </div>
                         <div className="_right_textarea_read w-[50%]">
                             <textarea className="overflow-hidden w-[100%] h-[100%] p-4 rounded-2xl outline-none resize-none" readOnly placeholder="Translate the words"/>
